@@ -65,7 +65,7 @@
 li:hover::after,  li.active::after{
    content: ""; 
     position: absolute;
-    bottom: -100%;
+    bottom: -120%;
     left: 0;
     width: 100%;
     height: 3px;
@@ -100,7 +100,6 @@ li:hover::after,  li.active::after{
 @media (min-width: 370px) and (max-width: 767px) {
     .header{
         display: none;
-        
     }
    
    }
