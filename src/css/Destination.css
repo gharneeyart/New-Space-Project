@@ -5,7 +5,7 @@
 }
 .destination{
     padding-top: 140px;
-    height: 75vh;
+    height: 90vh;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -126,7 +126,7 @@ button.click::after{
     }
     .destination{
         padding-top: 75px;
-        height: 80vh;
+        height: 90vh;
         width: 100%;
         display: flex;
         justify-content: center;

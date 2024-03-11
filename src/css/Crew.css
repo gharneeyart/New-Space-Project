@@ -8,7 +8,7 @@
     width: 100%;
     display: flex;
     justify-content: center;
-    height: 75vh;
+    height: 90vh;
 }
 .section-crew{
     width: 80%;
@@ -27,11 +27,12 @@
 }
 .content-crew{
     height: 89%;
+    width: 100%;
     display: flex;
 }
 .content-crew-left{
     height: 100%;
-    width: 55%;
+    width: 60%;
     color: white;
     display: flex;
     flex-direction: column;
@@ -64,7 +65,7 @@
 }
 .left-content-btn{
     height: 30%;
-    width: 16%;
+    width: 13%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -94,7 +95,7 @@ button.dot{
 } */
 .content-crew-right{
     height: 100%;
-    width: 45%;
+    width: 40%;
 }
 .content-crew-right img{
     height: 100%;
