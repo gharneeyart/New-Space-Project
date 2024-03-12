@@ -209,7 +209,7 @@ button.dot{
         width: 100%;
         display: flex;
         justify-content: center;
-        height: 80vh;
+        height: 90vh;
     }
     .section-crew{
         width: 90%;
@@ -253,7 +253,7 @@ button.dot{
         justify-content: center;
         text-align: center;
         align-items: center;
-        line-height: 3rem;
+        line-height: 2rem;
     }
     .left-content-info h2{
         font-weight: 200;

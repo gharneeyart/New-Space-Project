@@ -59,6 +59,9 @@
     font-size: 1.2rem;
     font-family: 'Bellefair', serif;
 }
+.circle:hover{
+    outline: 2rem solid rgba(128, 128, 128, 0.244);
+}
 
 @media (min-width: 370px) and (max-width: 767px) {
     .home-body{
